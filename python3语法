@@ -1,0 +1,52 @@
+在Python3中
+print输出不换行和不换行的写法
+>>> for i in 'span':
+	print(i,end='')
+span
+
+>>> for i in 'span':
+	print(i,end=' ')
+s p a n
+
+>>> for i in 'span':
+	print(i,end=',')
+s,p,a,n,
+
+>>> for i in 'span':
+	print(i)
+s
+p
+a
+n
+
+
+
+添加end参数
+
+python2中
+print输出换行和不换行的写法
+>>> for i in 'span':
+...     print i
+...
+s
+p
+a
+n
+>>> for i in 'span':
+...     print i,
+...
+s p a n
+>>>
+
+
+Python3中用户交互input代替2中的raw_input eval(input())代替2中input
+python2中用户交互raw_input  input
+
+reload函数希望获得的参数是一个已经加载了的模块的对象名称，所以在重载之前，
+请确保已经成功的导入这个模块
+python3中重新加载模块imp.reload(sys)
+python2中reload(sys)
+
+
+Python中模块的导入是一种代码运行的方式
+modleleran2.py 和 modlelearn3.py 模块导入的方法
