@@ -50,3 +50,12 @@ python2中reload(sys)
 
 Python中模块的导入是一种代码运行的方式
 modleleran2.py 和 modlelearn3.py 模块导入的方法
+
+python3中map等函数
+map(),filter()这些的返回值已经不再是list,而是iterators, 所以想要使用，只用将iterator 转换成list 即可，
+比如  list(map())
+
+Python3字典调用方法
+Python3中判断字典key只用get方法取消2中的has_key方法
+
+python3文件操作file用open替换
