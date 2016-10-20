@@ -18,9 +18,6 @@ s
 p
 a
 n
-
-
-
 添加end参数
 
 python2中
@@ -56,6 +53,19 @@ map(),filter()这些的返回值已经不再是list,而是iterators, 所以想�
 比如  list(map())
 
 Python3字典调用方法
+D={"spam":2,"ham":1,"eggs":3}
 Python3中判断字典key只用get方法取消2中的has_key方法
+Python3中字典keys,values,items等方法返回的是一个迭代去，如果需要展示需要list(D.keys())
+>>> list(D.values())
+[2, 3, 1]
+>>> list(D.items())
+[('spam', 2), ('eggs', 3), ('ham', 1)]
+>>>
+>>> list(D.keys())
+['spam', 'eggs', 'ham']
+
 
 python3文件操作file用open替换
+
+
+
