@@ -37,3 +37,4 @@ print(dict.keys())
 print(dict.get('ceshi'))
 
 print('ceshi' in dict)
+
