@@ -19,5 +19,10 @@ from learn import views as learn_views
 
 urlpatterns = [
     url(r'^$',learn_views.index),
+    url(r'^add/$',learn_views.add,name='add'),
+    url(r'^add2/(\d+)/(\d+)/$',learn_views.add2,name='add2'),
+    url(r'^add/(\d+)/(\d+)/$',learn_views.old_add2_redirect),
+    url(r'^new_add/(\d+)/(\d+)/$',learn_views.add2,name='add2'),
+    url(r'cal/',learn_views.cal,name='cal'),
     url(r'^admin/', admin.site.urls),
 ]
