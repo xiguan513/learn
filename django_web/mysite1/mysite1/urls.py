@@ -1,4 +1,4 @@
-"""mysite URL Configuration
+"""mysite1 URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/1.10/topics/http/urls/
@@ -18,14 +18,6 @@ from django.contrib import admin
 from learn import views as learn_views
 
 urlpatterns = [
-    url(r'^$',learn_views.index),
-    url(r'^add/$',learn_views.add,name='add'),
-    url(r'^add2/(\d+)/(\d+)/$',learn_views.add2,name='add2'),
-    url(r'^add/(\d+)/(\d+)/$',learn_views.old_add2_redirect),
-    url(r'^new_add/(\d+)/(\d+)/$',learn_views.add2,name='add2'),
-    url(r'cal/',learn_views.cal,name='cal'),
-    url(r'^home/$',learn_views.home,name='home'),
-    url(r'^current/(\w+)/$',learn_views.current_url_view_good,name='current_url_view_good'),
-    url(r'^ua/$',learn_views.ua_display_good,name='ua'),
+    url(r'time/(\d{1,2})/$',learn_views.hello,name='hello'),
     url(r'^admin/', admin.site.urls),
 ]

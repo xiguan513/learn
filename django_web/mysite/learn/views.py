@@ -38,3 +38,23 @@ def old_add2_redirect(request,a,b):
 #通过访问http://127.0.0.1:8000/cal/显示cat.html的内容
 def cal(request):
     return render(request,'cal.html')
+
+#通过字典{'string'：string }给home.html页面传递变量
+#在HTML中使用{{ }}（变量），功能类的，比如循环，条件判断是用 {%  %}（标签）
+def home(request):
+    tutolist=["HTMl","CSS","JS"]
+    info_dict={"site":"自强学堂","count":"各种IT技术"}
+    List=map(str,range(100))
+    string='我在自强学堂学习django，用它来建设网站'
+    return render(request,'home.html',{'string':string,'tutolist':tutolist,'info_dict':info_dict,"List":List})
+
+
+def current_url_view_good(request):
+    return HttpResponse("Welcome to the page at %s " % request.path )
+
+def ua_display_good(request):
+    try:
+        ua=request.META
+    except KeyError:
+        ua='unknow'
+    return HttpResponse("You browser is %s" % ua)
