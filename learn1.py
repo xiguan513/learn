@@ -38,3 +38,4 @@ print(dict.get('ceshi'))
 
 print('ceshi' in dict)
 
+print("Name:%-10sAge:%-8dHeight:%-8.2f" % ("Aviad",25,1.8445) )
