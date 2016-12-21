@@ -9,6 +9,7 @@ import smtplib
 import sys
 
 disk_status=""
+#file_name="1221.log"
 file_name=sys.argv[1]
 file=open(file_name)
 
