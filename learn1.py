@@ -39,3 +39,21 @@ print(dict.get('ceshi'))
 print('ceshi' in dict)
 
 print("Name:%-10sAge:%-8dHeight:%-8.2f" % ("Aviad",25,1.8445) )
+
+dict={"name":"song"}
+print dict.has_key("user")
+
+format="Hello, %s. %s enough for ya？"
+values=("world","Hot")
+print format % values
+
+print ("% 5d" % 10) + "\n" + ("% 5d" % -10 )
+print ("% +5d" % 10) + "\n" + ("% +5d" % -10 )
+
+ceshi="nihaonishishui"
+from string import maketrans
+
+trantab=maketrans("ni","ta")
+
+print ceshi.translate(trantab)
+

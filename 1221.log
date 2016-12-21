@@ -1,0 +1,130 @@
+10.171.99.65 | SUCCESS | rc=0 >>
+Filesystem     Type      Size  Used Avail Use% Mounted on
+/dev/xvda1     ext4       20G  2.4G   17G  13% /
+none           tmpfs     4.0K     0  4.0K   0% /sys/fs/cgroup
+udev           devtmpfs  990M  4.0K  990M   1% /dev
+tmpfs          tmpfs     201M  396K  200M   1% /run
+none           tmpfs     5.0M     0  5.0M   0% /run/lock
+none           tmpfs    1001M     0 1001M   0% /run/shm
+none           tmpfs     100M     0  100M   0% /run/user
+/dev/xvdb1     ext3       99G  8.2G   86G   9% /alidata
+10.44.20.156 | SUCCESS | rc=0 >>
+Filesystem     Type      Size  Used Avail Use% Mounted on
+/dev/xvda1     ext4       20G  2.5G   17G  14% /
+none           tmpfs     4.0K     0  4.0K   0% /sys/fs/cgroup
+udev           devtmpfs  990M  4.0K  990M   1% /dev
+tmpfs          tmpfs     201M  396K  200M   1% /run
+none           tmpfs     5.0M     0  5.0M   0% /run/lock
+none           tmpfs    1001M     0 1001M   0% /run/shm
+none           tmpfs     100M     0  100M   0% /run/user
+/dev/xvdb1     ext3       99G  8.3G   86G   9% /alidata
+10.172.84.70 | SUCCESS | rc=0 >>
+Filesystem     Type      Size  Used Avail Use% Mounted on
+/dev/xvda1     ext4       20G  2.5G   17G  14% /
+none           tmpfs     4.0K     0  4.0K   0% /sys/fs/cgroup
+udev           devtmpfs  990M  4.0K  990M   1% /dev
+tmpfs          tmpfs     201M  396K  200M   1% /run
+none           tmpfs     5.0M     0  5.0M   0% /run/lock
+none           tmpfs    1001M     0 1001M   0% /run/shm
+none           tmpfs     100M     0  100M   0% /run/user
+/dev/xvdb1     ext3       99G  8.0G   86G   9% /alidata
+10.171.64.130 | SUCCESS | rc=0 >>
+Filesystem     Type      Size  Used Avail Use% Mounted on
+/dev/xvda1     ext4       20G  2.2G   17G  12% /
+none           tmpfs     4.0K     0  4.0K   0% /sys/fs/cgroup
+udev           devtmpfs  990M  4.0K  990M   1% /dev
+tmpfs          tmpfs     201M  396K  200M   1% /run
+none           tmpfs     5.0M     0  5.0M   0% /run/lock
+none           tmpfs    1001M     0 1001M   0% /run/shm
+none           tmpfs     100M     0  100M   0% /run/user
+/dev/xvdb1     ext3       99G  7.7G   86G   9% /alidata
+10.44.12.47 | SUCCESS | rc=0 >>
+Filesystem     Type      Size  Used Avail Use% Mounted on
+/dev/xvda1     ext4       20G  2.9G   16G  16% /
+none           tmpfs     4.0K     0  4.0K   0% /sys/fs/cgroup
+udev           devtmpfs  990M  4.0K  990M   1% /dev
+tmpfs          tmpfs     201M  400K  200M   1% /run
+none           tmpfs     5.0M     0  5.0M   0% /run/lock
+none           tmpfs    1001M     0 1001M   0% /run/shm
+none           tmpfs     100M     0  100M   0% /run/user
+/dev/xvdb1     ext3       99G  2.0G   92G   3% /alidata
+10.165.121.122 | SUCCESS | rc=0 >>
+Filesystem     Type      Size  Used Avail Use% Mounted on
+/dev/xvda1     ext4       20G  2.5G   17G  14% /
+none           tmpfs     4.0K     0  4.0K   0% /sys/fs/cgroup
+udev           devtmpfs  990M  4.0K  990M   1% /dev
+tmpfs          tmpfs     201M  396K  200M   1% /run
+none           tmpfs     5.0M     0  5.0M   0% /run/lock
+none           tmpfs    1001M     0 1001M   0% /run/shm
+none           tmpfs     100M     0  100M   0% /run/user
+/dev/xvdb1     ext3       99G  3.3G   91G   4% /alidata
+10.171.64.30 | SUCCESS | rc=0 >>
+Filesystem     Type      Size  Used Avail Use% Mounted on
+/dev/xvda1     ext4       20G  2.5G   17G  14% /
+none           tmpfs     4.0K     0  4.0K   0% /sys/fs/cgroup
+udev           devtmpfs  990M  4.0K  990M   1% /dev
+tmpfs          tmpfs     201M  396K  200M   1% /run
+none           tmpfs     5.0M     0  5.0M   0% /run/lock
+none           tmpfs    1001M     0 1001M   0% /run/shm
+none           tmpfs     100M     0  100M   0% /run/user
+/dev/xvdb1     ext3       99G  3.3G   91G   4% /alidata
+10.44.41.53 | SUCCESS | rc=0 >>
+Filesystem     Type      Size  Used Avail Use% Mounted on
+/dev/xvda1     ext4       20G  2.4G   17G  13% /
+none           tmpfs     4.0K     0  4.0K   0% /sys/fs/cgroup
+udev           devtmpfs  990M  4.0K  990M   1% /dev
+tmpfs          tmpfs     201M  392K  200M   1% /run
+none           tmpfs     5.0M     0  5.0M   0% /run/lock
+none           tmpfs    1001M     0 1001M   0% /run/shm
+none           tmpfs     100M     0  100M   0% /run/user
+/dev/xvdb1     ext3       99G  1.4G   92G   2% /alidata
+10.204.8.12 | SUCCESS | rc=0 >>
+Filesystem     Type      Size  Used Avail Use% Mounted on
+/dev/xvda1     ext4       20G  2.2G   17G  12% /
+none           tmpfs     4.0K     0  4.0K   0% /sys/fs/cgroup
+udev           devtmpfs  990M  4.0K  990M   1% /dev
+tmpfs          tmpfs     201M  392K  200M   1% /run
+none           tmpfs     5.0M     0  5.0M   0% /run/lock
+none           tmpfs    1001M     0 1001M   0% /run/shm
+none           tmpfs     100M     0  100M   0% /run/user
+/dev/xvdb1     ext3       99G  1.4G   92G   2% /alidata
+10.171.54.126 | SUCCESS | rc=0 >>
+Filesystem     Type      Size  Used Avail Use% Mounted on
+/dev/xvda1     ext4       20G  3.0G   16G  16% /
+none           tmpfs     4.0K     0  4.0K   0% /sys/fs/cgroup
+udev           devtmpfs  3.9G  4.0K  3.9G   1% /dev
+tmpfs          tmpfs     799M  404K  799M   1% /run
+none           tmpfs     5.0M     0  5.0M   0% /run/lock
+none           tmpfs     3.9G     0  3.9G   0% /run/shm
+none           tmpfs     100M     0  100M   0% /run/user
+/dev/xvdb1     ext3      493G  2.6G  465G   1% /alidata
+10.172.84.42 | SUCCESS | rc=0 >>
+Filesystem     Type      Size  Used Avail Use% Mounted on
+/dev/xvda1     ext4       20G  2.2G   17G  12% /
+none           tmpfs     4.0K     0  4.0K   0% /sys/fs/cgroup
+udev           devtmpfs  990M  4.0K  990M   1% /dev
+tmpfs          tmpfs     201M  416K  200M   1% /run
+none           tmpfs     5.0M     0  5.0M   0% /run/lock
+none           tmpfs    1001M     0 1001M   0% /run/shm
+none           tmpfs     100M     0  100M   0% /run/user
+/dev/xvdb1     ext3       99G  1.7G   92G   2% /alidata
+10.171.127.171 | SUCCESS | rc=0 >>
+Filesystem     Type      Size  Used Avail Use% Mounted on
+/dev/xvda1     ext4       20G  3.1G   16G  17% /
+none           tmpfs     4.0K     0  4.0K   0% /sys/fs/cgroup
+udev           devtmpfs  3.9G  4.0K  3.9G   1% /dev
+tmpfs          tmpfs     799M  396K  799M   1% /run
+none           tmpfs     5.0M     0  5.0M   0% /run/lock
+none           tmpfs     3.9G     0  3.9G   0% /run/shm
+none           tmpfs     100M     0  100M   0% /run/user
+/dev/xvdb1     ext3      493G  2.3G  465G   1% /alidata
+10.51.74.212 | SUCCESS | rc=0 >>
+Filesystem     Type      Size  Used Avail Use% Mounted on
+/dev/xvda1     ext4       20G  3.4G   16G  18% /
+none           tmpfs     4.0K     0  4.0K   0% /sys/fs/cgroup
+udev           devtmpfs  3.9G  4.0K  3.9G   1% /dev
+tmpfs          tmpfs     799M  400K  799M   1% /run
+none           tmpfs     5.0M     0  5.0M   0% /run/lock
+none           tmpfs     3.9G     0  3.9G   0% /run/shm
+none           tmpfs     100M     0  100M   0% /run/user
+/dev/xvdb1     ext3      985G   18G  917G   5% /alidata
