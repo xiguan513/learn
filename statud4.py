@@ -24,3 +24,4 @@ class woman(Peoper):
     def __init__(self,name,age,job):
         super(woman,self).__init__(name,age)
 
+w=woman("li",23,'s')
