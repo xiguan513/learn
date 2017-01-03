@@ -11,13 +11,16 @@ class SchoolMember(object):
 
 
 class Tearch(SchoolMember):
+    # 子类继承父类并重写新构造函数的时候，需要把父类的函数继承下来
     def __init__(self,schoolname,name,age,salary):
+        #使用super方法继承父类的属性
         super(Tearch,self).__init__(schoolname)
         self.name=name
         self.age=age
         self.salary=salary
 
     def tell(self):
+        #使用super继承父类的方法
         super(Tearch,self).tell()
         print "My name is %s age is %s salary %s" % (self.name,self.age,self.salary)
 
