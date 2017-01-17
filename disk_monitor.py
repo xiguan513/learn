@@ -7,6 +7,7 @@ from email.mime.text import MIMEText
 from email.utils import parseaddr, formataddr
 import smtplib
 import sys
+import pickle
 
 disk_status=""
 file_name="1221.log"
@@ -72,9 +73,11 @@ def disk(disk_status):
 
 disk_status=disk(disk_status)
 #assert disk_status
+disk_file=open("disk.pkl",'ab')
 if disk_status=="":
     disk_status="磁盘使用正常"
-    mailsend(disk_status)
+    pickle.dump(disk_status,disk_file)
+    disk_file.close()
 else:
     mailsend(disk_status)
 
