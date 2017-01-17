@@ -67,6 +67,7 @@ else:
     server.login(from_addr, password)
     server.sendmail(from_addr, [to_addr], msg.as_string())
     server.quit()
+    file.close()
 
 
 
