@@ -38,9 +38,9 @@ def _format_addr(s):
         Header(name, 'utf-8').encode(), \
         addr.encode('utf-8') if isinstance(addr, unicode) else addr))
 
-from_addr = "songbing513@163.com"
-password = "%!#+513-1990bing"
-to_addr = "songbing513@163.com"
+from_addr = "ynsymonitor@163.com"
+password = "3uQs3ZRXBz"
+to_addr = "ynsymonitor@163.com"
 smtp_server = "smtp.163.com"
 
 
@@ -71,6 +71,7 @@ def disk(disk_status):
     return disk_status
 
 disk_status=disk(disk_status)
+#assert disk_status
 if disk_status=="":
     disk_status="磁盘使用正常"
     mailsend(disk_status)
