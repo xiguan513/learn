@@ -94,8 +94,8 @@ def mem_monitor(memlist):
                 memip=reip.findall(e)
             elif remem.findall(e):
                 memsize=int(e)
-                if memsize<500:
-                    return "Mem_user：%s IP：%s" % (memsize,memip[0])
+                if memsize<600:
+                    return "Mem_user：%s  IP：%s  Server：%s" % (memsize,memip[0],ser_name[memip[0]])
 
 
 #disk_monitor
