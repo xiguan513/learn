@@ -77,7 +77,7 @@ def disk(disk_status):
                 disk_fenqu=i.split()[-1]
                 if disk_num.strip("%").isdigit():
                     if int(disk_num.strip("%")) >= 70:
-                        disk_status+=disk_num + " " + disk_fenqu + " " + disk_ip+" "+ser_name[disk_ip]+"\n"
+                        disk_status+="Size: "+disk_num + " " +"Partition: "+disk_fenqu + " " +"IP: "+disk_ip+" "+"Server："+ser_name[disk_ip]+"\n"
     return disk_status
 
 
