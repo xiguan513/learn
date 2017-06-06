@@ -1,0 +1,62 @@
+类定义
+
+    类是用来描述具有相同的属性和方法的对象的集合。它定义了该集合中每个对象所共有的属性和方法。
+  对象是类的实例，使用class语句创建一个类。
+
+    class statud(object):#新式类
+
+        name='test'#公共属性外部可以修改，调用
+        __age=18#私有属性外部不能修改，调用
+
+        def __init__(self,score):#初始化函数，定义初始化属性
+            self.__sorce_num=score
+
+        def __score(self):#私有方法，不能被外部调用
+            print("%s score is %s" % (self.name,self.__score_num))
+
+        def who(self):#共有方法，可以直接被外部调用
+            print("I'm %s and my age is %d year old" % (self.name,self.__age))
+            self.__score()
+
+
+
+    test=statud("60")
+    test.who()
+
+    test.name="ceshi"#修改内部属性
+    test.who()
+
+    lisa=statud("90")
+    lisa.name="lisa"#修改内部属性
+    lisa.who()
+
+
+    类属性与方法
+        类的属性
+            name="test"#类属性,通过外部可以直接调用修改
+        类的私有属性
+            __age=25#类私有属性，不能直接调用和修改
+        类的方法
+            who()#公有方法
+        类的私有方法
+            __score()#私有方法
+
+    类的构造方法和析构方法
+        __init__()#构造方法，初始化，被称为类的构造函数或初始化方法，当创建了这个类的实例时就会调用该方法。
+        __del__()#析构方法，对象消逝的时候被调用，当对象不再被使用时，__del__方法运行。
+
+
+    实例对象
+        test=statud("60")#实例化对象
+
+    内置类属性
+        __doc__ :类的文档字符串
+        __name__: 类名
+        __module__: 类定义所在的模块
+
+继承
+
+
+
+实例方法、类方法、静态方法
+

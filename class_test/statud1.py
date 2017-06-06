@@ -4,7 +4,7 @@
 
 class MyObject(object):
     """This is test class"""
-    def __init__(self):
+    def __init__(self):#初始化函数
         self.x=123
 
     def test(self):
