@@ -4,85 +4,9 @@
     <bookmark url="file://E:/s14/s14/day1/Loop_statement.py" description="        print(&quot;%dx%d=%d&quot; % (j,i,j*i),end=&quot; &quot;)&#10;" line="11" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0f22312-5645-49ab-b52f-8843dbb83785" name="Default" comment="修改磁盘报警格式">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/excle/4.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/excle/record.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/111.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Crawler/.idea/Crawler.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Crawler/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Crawler/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Crawler/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Crawler/demo1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Crawler/demo2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Crawler/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Crawler/requests_learning.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Crawler/urllib_learning.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class_test/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class_test/class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class_test/class1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class_test/class2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/.idea/cookbook.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/first/31.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/first/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/first/example1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/first/example2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/second/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/second/example1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/seven/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/seven/example1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/disk.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/excle/1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/excle/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/excle/dbconfig.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file_option/1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file_option/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file_option/file_name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filetest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gaode.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login_baidu.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mem.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mem.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mem.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/picec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_learn/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_learn/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reflect/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reflect/commons.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reflect/visit.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/regex/1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/regex/2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/regex/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/regex/qqtest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sh/ntp_time.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tcp_span.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threading.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threading_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/win_bak.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work_mail.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/迭代器.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Crawler/demo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/disk.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/flaskr/.idea/flaskr.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/flaskr/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/flaskr/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/flaskr/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/learn.iml" afterPath="$PROJECT_DIR$/.idea/learn.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="f0f22312-5645-49ab-b52f-8843dbb83785" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1221.log" afterPath="$PROJECT_DIR$/1221.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/regex/qq.py" afterPath="$PROJECT_DIR$/regex/qq.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/statud.py" afterPath="$PROJECT_DIR$/class_test/statud.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/statud1.py" afterPath="$PROJECT_DIR$/class_test/statud1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/statud2.py" afterPath="$PROJECT_DIR$/class_test/statud2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/statud3.py" afterPath="$PROJECT_DIR$/class_test/statud3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/statud4.py" afterPath="$PROJECT_DIR$/class_test/statud4.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/stautd5.py" afterPath="$PROJECT_DIR$/class_test/stautd5.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/stautd6.py" afterPath="$PROJECT_DIR$/class_test/stautd6.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work_mail.py" afterPath="$PROJECT_DIR$/work_mail.py" />
     </list>
     <ignored path="learn.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -165,7 +89,20 @@
     <favorites_list name="learn" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="work_mail.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/work_mail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="56" column="19" lean-forward="true" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+              <folding>
+                <element signature="e#45#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -232,8 +169,8 @@
         <option value="$PROJECT_DIR$/file_option/file_test" />
         <option value="$PROJECT_DIR$/file_option/1.py" />
         <option value="$PROJECT_DIR$/gaode.py" />
-        <option value="$PROJECT_DIR$/work_mail.py" />
         <option value="$PROJECT_DIR$/win_bak.py" />
+        <option value="$PROJECT_DIR$/work_mail.py" />
       </list>
     </option>
   </component>
@@ -267,6 +204,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -282,7 +220,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -832,7 +769,14 @@
       <option name="project" value="LOCAL" />
       <updated>1493800097874</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="日常记录">
+      <created>1496734178026</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1496734178026</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TodoView">
@@ -847,11 +791,11 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19189766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19402985" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34933037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34933037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35379463" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4486607" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -929,7 +873,8 @@
     <MESSAGE value="增加报警中加入服务器名字" />
     <MESSAGE value="修改磁盘报警格式" />
     <MESSAGE value="腾讯电影爬取" />
-    <option name="LAST_COMMIT_MESSAGE" value="腾讯电影爬取" />
+    <MESSAGE value="日常记录" />
+    <option name="LAST_COMMIT_MESSAGE" value="日常记录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1243,16 +1188,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="20" selection-end-column="29" />
-          <folding>
-            <element signature="e#47#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/work_mail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        <state relative-caret-position="990">
+          <caret line="56" column="19" lean-forward="true" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
           <folding>
             <element signature="e#45#56#0" expanded="true" />
           </folding>

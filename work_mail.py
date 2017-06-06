@@ -53,5 +53,6 @@ if __name__=="__main__":
         mes='\n'.join(work_list)
         mailsend(mes)
     except IOError as e:
-        print e
+        e=str(e)
+        mailsend(e)
 
